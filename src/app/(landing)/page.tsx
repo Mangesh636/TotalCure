@@ -1,5 +1,5 @@
-import { Header } from "@/components/header";
-import { LandingInfo } from "@/components/landing-info";
+import { Header } from "@/components/common/header";
+import { LandingInfo } from "@/components/landing/landing-info";
 
 export default function Home() {
   return (

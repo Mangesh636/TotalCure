@@ -1,7 +1,7 @@
 import { Ubuntu } from "next/font/google";
 
 import { Button } from "@nextui-org/react";
-import { DotBackground } from "./dot-background";
+import { DotBackground } from "../common/dot-background";
 import { cn } from "@/utils/cn";
 
 const ubuntu = Ubuntu({
