@@ -1,6 +1,7 @@
 import { cn } from "@/utils/cn";
 
 import { Ubuntu } from "next/font/google";
+import React from "react";
 import { LuHeartHandshake } from "react-icons/lu";
 
 const ubuntu = Ubuntu({
